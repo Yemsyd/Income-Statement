@@ -26,3 +26,9 @@ DAX (Data Analysis Expressions) played a critical role in enhancing the analytic
 - Net Income Margin: This measure calculates the ratio of net income to total revenue, providing insight into profitability.
 - Variance Analysis: DAX was used to compare current year data with the previous year, highlighting areas with significant changes.
   These measures not only enriched the dashboard with meaningful metrics but also enabled the users to drill down into specific financial details.
+
+![Dashboard Design](https://github.com/user-attachments/assets/a0e0c26d-e202-4ef0-8d68-7fc293d3453c)
+
+### Conclusion
+This income statement dashboard showcases how Power BI can be used to turn raw financial data into actionable insights. From ETL processes to DAX calculations and thoughtful design, every step was aimed at making the data accessible, understandable, and useful for decision-makers.
+By combining technical expertise with creative design, I was able to create a tool that not only displays data but also tells the story of an organization's financial journey over the past two years.
