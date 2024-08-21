@@ -14,6 +14,9 @@ I started the project using Power query to handle the ETL aspect of the project.
 ### Data Model
 This primarily involves connecting my fact table to my dimension table using a primary key or a column they have in common. This helps to create a connection between my tables and i can make meaning of each data.
 
+![Data Model](https://github.com/user-attachments/assets/8219e53b-9e3a-4dff-9cd7-28f146fb35db)
+
+
 ### Extract, Tranform, Load (ETL)
 The first step in building this dashboard involved gathering and transforming the necessary financial data. The data was sourced from various financial records, including revenue streams, costs, expenses, and taxes. Using Power BI's Power Query Editor, I performed several transformations to ensure the data was clean and structured correctly.
 
