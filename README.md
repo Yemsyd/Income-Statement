@@ -8,6 +8,9 @@ Creating a compelling data visualization is more than just arranging numbers on 
 ### Extract, Tranform, Load (ETL)
 The first step in building this dashboard involved gathering and transforming the necessary financial data. The data was sourced from various financial records, including revenue streams, costs, expenses, and taxes. Using Power BI's Power Query Editor, I performed several transformations to ensure the data was clean and structured correctly.
 
+![Power Query Editor](https://github.com/user-attachments/assets/62aa7343-ca1c-405f-a5bf-66df777c5cb8)
+
+
 ### Key steps in the ETL process:
 
 - Extraction: Financial data from multiple sources were imported into Power BI.
