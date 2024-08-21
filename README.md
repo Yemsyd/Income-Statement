@@ -16,3 +16,13 @@ The first step in building this dashboard involved gathering and transforming th
 - Extraction: Financial data from multiple sources were imported into Power BI.
 - Transformation: This involved cleaning the data by removing duplicates, handling missing values, and ensuring consistency in data types. Calculated columns were created to derive necessary metrics such as Net Income and EBIT.
 - Loading: Once transformed, the data was loaded into Power BI’s data model, ready for further analysis.
+
+### DAX in Power BI
+DAX (Data Analysis Expressions) played a critical role in enhancing the analytical capabilities of the dashboard. With DAX, I created several measures that allowed for dynamic calculations, making the dashboard interactive and responsive to user inputs.
+
+### Some of the key DAX measures include:
+
+- Revenue Growth: A measure to calculate the percentage change in revenue year-over-year.
+- Net Income Margin: This measure calculates the ratio of net income to total revenue, providing insight into profitability.
+- Variance Analysis: DAX was used to compare current year data with the previous year, highlighting areas with significant changes.
+  These measures not only enriched the dashboard with meaningful metrics but also enabled the users to drill down into specific financial details.
