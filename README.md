@@ -3,7 +3,12 @@
 ## Table Of Content
 - [Project Overview](#project-overview)
 - [Data Tools](#data-tools)
-- [Data Modelling](#data-modelling)
+- [Data Model](#data-modelling)
+- [Extract, Tranform, Load](#extract-tranform-load)
+- [Key steps in the ETL process](#key-steps-in-the-etl-process)
+- [DAX in Power BI](#dax-in-power-bi)
+- [Some of the key DAX measures Include](#some-of-the-key-dax-measures-include)
+- [Conclusion](#conclusion)
 
 ### Project Overview
 Creating a compelling data visualization is more than just arranging numbers on a screen; it's about telling a story that drives insight and action. In this project, I developed an income statement dashboard for a fictional organization, capturing its financial performance over the past two years. Below, I'll walk you through the key stages of this project, from data preparation to the final design, showcasing how tools like Power BI, DAX, and effective dashboard design can be leveraged to create impactful data stories.
@@ -17,7 +22,7 @@ This primarily involves connecting my fact table to my dimension table using a p
 ![Data Model](https://github.com/user-attachments/assets/8219e53b-9e3a-4dff-9cd7-28f146fb35db)
 
 
-### Extract, Tranform, Load (ETL)
+### Extract, Tranform, Load
 The first step in building this dashboard involved gathering and transforming the necessary financial data. The data was sourced from various financial records, including revenue streams, costs, expenses, and taxes. Using Power BI's Power Query Editor, I performed several transformations to ensure the data was clean and structured correctly.
 
 ![Power Query Editor](https://github.com/user-attachments/assets/62aa7343-ca1c-405f-a5bf-66df777c5cb8)
