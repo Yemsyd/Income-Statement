@@ -1,9 +1,18 @@
 # Building a Data-Driven Income Statement Dashboard in Power BI
 
 ## Table Of Content
+- [Project Overview](#project-overview)
+- [Data Tools](#data-tools)
+- [Data Modelling](#data-modelling)
 
 ### Project Overview
 Creating a compelling data visualization is more than just arranging numbers on a screen; it's about telling a story that drives insight and action. In this project, I developed an income statement dashboard for a fictional organization, capturing its financial performance over the past two years. Below, I'll walk you through the key stages of this project, from data preparation to the final design, showcasing how tools like Power BI, DAX, and effective dashboard design can be leveraged to create impactful data stories.
+
+### Data Tools
+I started the project using Power query to handle the ETL aspect of the project. I like Power Query because it's a point and click tool which makes cleaning data fast and efficient but on some rare occassions you might need to apply the "M" language code which is Power Query main language. After Power Query I move into Power BI where i model my data, build my measures and visualize them with charts and cards.
+
+### Data Model
+This primarily involves connecting my fact table to my dimension table using a primary key or a column they have in common. This helps to create a connection between my tables and i can make meaning of each data.
 
 ### Extract, Tranform, Load (ETL)
 The first step in building this dashboard involved gathering and transforming the necessary financial data. The data was sourced from various financial records, including revenue streams, costs, expenses, and taxes. Using Power BI's Power Query Editor, I performed several transformations to ensure the data was clean and structured correctly.
